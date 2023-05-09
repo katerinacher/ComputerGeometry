@@ -1,2 +1,0 @@
-# ComputerGeometry
-Labs
